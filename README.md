@@ -28,10 +28,10 @@ I build products, automation tools, and custom Skills with Coding Agents. For me
 
 我是个很讨厌浪费时间的人，希望我的筛选能帮你节约一点时间。
 
-<p>
+<p align="center">
   <img width="420" alt="AI Builder 社区" src="https://github.com/user-attachments/assets/08d1a4d0-2207-437d-9e2f-d581f4776a1a" />
 </p>
 
-<p>
-  <img width="260" alt="可梦 OPC & AI Builder 交流群二维码" src="./community-qr.png" />
+<p align="center">
+  <img width="195" alt="可梦 OPC & AI Builder 交流群二维码" src="./community-qr.png" />
 </p>
