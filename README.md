@@ -28,9 +28,7 @@ I build products, automation tools, and custom Skills with Coding Agents. For me
 
 你可以看到由我本人亲手筛选过的 AI 新闻、一手信息、各个 AI 大厂的优质活动，以及便宜低价的 tokens。
 
-我是个很讨厌浪费时间的人，希望我的筛选能帮你节约一点时间。
-
-这里不欢迎站在岸上夸夸其谈的演说家，只欢迎亲手把 AI idea 做出来的人。
+我是个很讨厌浪费时间的人，希望我的筛选能帮你节约一点时间。这里不欢迎夸夸其谈的演说家，只欢迎 AI Builder。
 
 <p align="center">
   <img width="420" alt="AI Builder 社区" src="https://github.com/user-attachments/assets/08d1a4d0-2207-437d-9e2f-d581f4776a1a" />
