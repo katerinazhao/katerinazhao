@@ -22,10 +22,8 @@ I build products, automation tools, and custom Skills with Coding Agents. For me
 
 ## AI Builder Community
 
-AI Builder 是我搭建的社区，给那些不满足于只谈 AI、而是想亲手把 AI idea 做出来的人。
-
-<img width="420" alt="AI Builder 社区" src="https://github.com/user-attachments/assets/08d1a4d0-2207-437d-9e2f-d581f4776a1a" />
+「可梦 AI 超级个体社区」是我搭建的社区，给那些不满足于只谈 AI、而是想亲手把 AI idea 做出来的人。
 
 在可梦 AI 超级个体社区中，我们会持续分享 AI 玩法、邪修攻略和 OPC 极速变现思路。
 
-<img width="320" alt="可梦 OPC & AI Builder 交流群二维码" src="./assets/community-qr.png" />
+<img width="420" alt="AI Builder 社区" src="https://github.com/user-attachments/assets/08d1a4d0-2207-437d-9e2f-d581f4776a1a" />
