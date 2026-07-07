@@ -22,10 +22,14 @@ I build products, automation tools, and custom Skills with Coding Agents. For me
 
 ## AI Builder Community
 
-「可梦 AI 超级个体社区」是我搭建的社区，这里不欢迎站在岸上夸夸其谈的演说家，只欢迎亲手把 AI idea 做出来的人。
-在社区中，我会持续分享 AI玩法邪修攻略和 OPC极速变现思路。你可以看到由我本人亲手筛选过的AI新闻、一手信息、各个AI大厂的优质活动、以及便宜低价的tokens。
+「可梦 AI 超级个体社区」是我搭建的社区，这里不欢迎站在岸上夸夸其谈的演说家，只欢迎亲手把 AI idea 做出来的人。<br>
+在社区中，我会持续分享 AI 玩法邪修攻略和 OPC 极速变现思路。你可以看到由我本人亲手筛选过的 AI 新闻、一手信息、各个 AI 大厂的优质活动，以及便宜低价的 tokens。<br>
 我是个很讨厌浪费时间的人，希望我的筛选能帮你节约一点时间。
 
-<img width="420" alt="AI Builder 社区" src="https://github.com/user-attachments/assets/08d1a4d0-2207-437d-9e2f-d581f4776a1a" />
-<img width="400" height="624" alt="可梦OPC   AI Builder 交流群6" src="https://github.com/user-attachments/assets/34f39336-62cd-4be8-af2b-3c51573cafc6" />
+<p>
+  <img width="420" alt="AI Builder 社区" src="https://github.com/user-attachments/assets/08d1a4d0-2207-437d-9e2f-d581f4776a1a" />
+</p>
 
+<p>
+  <img width="420" alt="可梦 OPC & AI Builder 交流群二维码" src="https://github.com/user-attachments/assets/34f39336-62cd-4be8-af2b-3c51573cafc6" />
+</p>
