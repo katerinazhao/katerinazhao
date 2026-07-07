@@ -22,9 +22,7 @@ I build products, automation tools, and custom Skills with Coding Agents. For me
 
 ## AI Builder Community
 
-「可梦 AI 超级个体社区」是我搭建的社区。
-
-在社区中，我会持续分享 AI 玩法邪修攻略和 OPC 极速变现思路。
+「可梦 AI 超级个体社区」是我搭建的社区。在社区中，我会持续分享 AI 玩法邪修攻略和 OPC 极速变现思路。
 
 你可以看到由我本人亲手筛选过的 AI 新闻、一手信息、各个 AI 大厂的优质活动，以及便宜低价的 tokens。
 
